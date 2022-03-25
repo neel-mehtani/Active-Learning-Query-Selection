@@ -1,5 +1,4 @@
-# CMU-02750-HW1
-Spring 2021 Automation of Scientific Research course project - Study of Query Selection Methods in Active Learning (HW1)
+Automation of Scientific Research Mini-Project: Study of Query Selection Methods in Active Learning
 
 ### Summary
 There are two parts to this project:
